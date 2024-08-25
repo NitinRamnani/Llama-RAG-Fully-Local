@@ -1,4 +1,4 @@
-This is a simple RAG application that runs on local system and uses Llama 3.1 8B model, nomic-embed-text, LangChain, Chromadb and pypdf for loading PDFs as text embeddings in Chromadb and then using them as context while querying Llama.
+This is a RAG application that runs on local and uses Llama 3.1 8B model, nomic-embed-text, LangChain, Chromadb and pypdf for loading PDFs as text embeddings in Chromadb and then using them as context while querying Llama.
 
 Steps to run RAG on local
 1) Download Ollama https://ollama.com/download
